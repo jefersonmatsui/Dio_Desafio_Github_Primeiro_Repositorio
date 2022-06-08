@@ -6,6 +6,7 @@ Repositório criado para o Desafio de projeto
 
 
 GIT BASH
+
 'git clone'                 [baixar os arquivos para máquina local]
 
 'cd (nome da pasta)'        [abrir a pasta]
